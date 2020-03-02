@@ -43,7 +43,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Possíveis temas: um novo "processo" (exemplo: Design Thinking, Design Sprint, Shape Up, etc), um livro de Engenharia de Software (exemplo: A Philosophy of Software Design, Pragmatic Programmer, etc)
 * Duração: 75 minutos
-* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia)
+* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito)
 
 ## Aulas
 
