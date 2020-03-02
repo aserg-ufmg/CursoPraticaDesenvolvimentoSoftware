@@ -1,4 +1,4 @@
-# Pratica de Desenvolvimento de Software
+# Prática de Desenvolvimento de Software
 
 * Curso de graduação: Prática de Desenvolvimento de Software
 * Prof. Marco Tulio Valente - mtov [at] dcc.ufmg.br
