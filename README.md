@@ -49,10 +49,11 @@ Essa é uma disciplina de trabalhos em grupos, com 4 ou 5 alunos. Todos os traba
 * Acompanhamento do andamento do projeto (3 grupos por aula)
 * Seminários (presença obrigatória)
 
-## Critérios para uma boa escolha do sistema
+## Critérios para Escolha do Sistema
 
 * Escopo (~12 semanas)
 * Interesse da equipe no sistema
+* Afinidade entre os membros da equipe
 * Capacidade técnica da equipe
 * Disponibilidade de uma plataforma para colocar o sistema em produção
 * Capacidade de atrair usuários reais
