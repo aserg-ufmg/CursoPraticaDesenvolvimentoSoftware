@@ -26,6 +26,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Ajustes, feedback e monitoramento do sistema em produção (3 semanas): 10 pontos
 * 1 seminário (por grupo) sobre tecnologia: 15 pontos
 * 1 seminário (por grupo) sobre prática/conceito: 15 pontos
+* Observação: devido às características da disciplina, ela não possuirá exame especial
 
 ## Grupos
 
