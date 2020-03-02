@@ -23,7 +23,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 ## Avaliação
 
 * 3 sprints de 3 semanas cada um (9 semanas): 60 pontos, isto é, 20 pontos por sprint
-* Feedback e monitoramento do sistema em produção: 10 pontos
+* Ajustes, feedback e monitoramento do sistema em produção (3 semanas): 10 pontos
 * 1 seminário (por grupo) sobre tecnologia: 15 pontos
 * 1 seminário (por grupo) sobre prática/conceito: 15 pontos
 
@@ -49,9 +49,23 @@ Essa é uma disciplina de trabalhos em grupos, com 4 ou 5 alunos. Todos os traba
 * Acompanhamento do andamento do projeto (3 grupos por aula)
 * Seminários (presença obrigatória)
 
+## Critérios para uma boa escolha do sistema
+
+* Escopo (~12 semanas)
+* Interesse da equipe no sistema
+* Capacidade técnica da equipe
+* Disponibilidade de uma plataforma para colocar o sistema em produção
+* Capacidade de atrair usuários reais
+* Observação: não pode ser um sistema que já está em andamento.
+
 ## Primeira tarefa
 
 * Primeira tarefa: abrir uma issue neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
-  * Prazo: 09/03 (5a feira)
+  * Prazo: 09/03 (2a feira)
+  * Aula de 2a feira: 09/03 - cada grupo deve explicar seu sistema em 10 minutos
+  
+## Segunda tarefa
+
+* Sprint planning
