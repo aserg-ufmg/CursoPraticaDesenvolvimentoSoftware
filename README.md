@@ -29,7 +29,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ## Grupos
 
-Essa é uma disciplina de trabalhos em grupos, com 4 ou 5 alunos. Todos os trabalhos serão em grupos.
+* Essa é uma disciplina de trabalho em grupo, com 4 ou 5 alunos. Todos os trabalhos serão em grupos.
+* O professor vai procurar atuar como um PO, Scrum Master/Agile Coach.
 
 ## Seminário de Tecnologia
 
