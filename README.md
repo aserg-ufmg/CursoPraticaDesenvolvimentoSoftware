@@ -60,14 +60,14 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Capacidade de atrair usuários reais
 * Observação: não pode ser um sistema que já está em andamento.
 
-## Primeira tarefa
+## Primeira Tarefa
 
 * Primeira tarefa: abrir uma issue neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
   * Prazo: 09/03 (2a feira)
-  * Aula de 2a feira: 09/03 - cada grupo deve explicar seu sistema em 10 minutos
+  * Aula de 2a feira: 09/03 - cada grupo deve explicar seu sistema em 8 minutos
   
-## Segunda tarefa
+## Segunda Tarefa
 
 * Sprint planning
