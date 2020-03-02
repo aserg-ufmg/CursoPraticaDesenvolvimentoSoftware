@@ -18,7 +18,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Práticas de processo: histórias de usuários, backlog do produto, backlog do sprint, sprint planning, sprint review e retrosperctiva
 * Programação: testes de unidade, testes de integração, testes de interface (opcional), bons princípios e padrões de projeto, refactoring, revisão de código (pull requests), code style
-* Deployment: controle de versões (GitHub), integração contínua, trunk-based development, feature flags, deployment contínuo (opcional)
+* Deployment: controle de versões (GitHub), integração contínua, trunk-based development, feature flags, deployment contínuo (opcional), looging e analytics.
 
 ## Avaliação
 
