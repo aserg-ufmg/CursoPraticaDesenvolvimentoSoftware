@@ -28,6 +28,13 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * 1 seminário (por grupo) sobre prática/conceito: 15 pontos
 * Observação: devido às características da disciplina, ela não possuirá exame especial
 
+## Pontos Extra
+
+* 0.25 pontos para cada "typo" (erro de ortografia, gramatical, etc) encontrado no livro texto
+* 1.0 ponto para qualquer outro tipo de erro 
+* Limitado a 3 pontos por aluno
+* Para garantir o ponto: enviar mail para o professor (apenas o aluno que achar primeiro o erro será contemplado)
+
 ## Grupos
 
 * Essa é uma disciplina de trabalho em grupo, com 4 ou 5 alunos. Todos os trabalhos serão em grupos.
