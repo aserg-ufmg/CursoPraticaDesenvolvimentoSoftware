@@ -70,12 +70,32 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ## Primeira Tarefa
 
-* Primeira tarefa: abrir uma issue neste mesmo repositório da seguinte forma:
+* Primeira tarefa: abrir uma [issue](https://github.com/aserg-ufmg/CursoPraticaDesenvolvimentoSoftware/issues) neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
   * Prazo: 09/03 (2a feira)
   * Aula de 2a feira: 09/03 - cada grupo deve explicar seu sistema em 8 minutos
   
-## Segunda Tarefa
+## Sprint #1 (20 pontos)
 
-* Sprint planning
+* Sprint planning (prazo: 13/03 - Valor 2 pontos)
+  * Escrever de 5-10 estórias
+  * Quebrar as estórias em tarefas; alocar as tarefas para membros do time.
+  * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
+  * Criar um diagrama de pacotes UML do sistema, descrevendo sua arquitetura em alto nível. Mais detalhes sobre diagramas de       pacotes no Capítulo 4, Seção 4.4 do livro texto. Adicionar esse diagrama no README do repositório, em uma seção chamada   
+    Arquitetura
+* Sprint Review
+  * Datas: 23 e 26/03 (em sala de aula)
+
+### Práticas de Implementação
+
+* Testes de unidade
+* Desenvolvimento baseado no Trunk e feature flags
+* Seguir um layout de código. Veja um exemplo para [Java](https://google.github.io/styleguide/javaguide.html).
+
+### Orientações para as Sprint Reviews (Sprints #1, #2 e #3)
+
+* Em sala de aula, 30 minutos (a definir), incluindo uma demonstração funcional do sistema.
+odos membros do grupo devem estar presentes; mas, para otimizar, a apresentação pode ser realizada por 1-2 membros. Quem não puder estar presente, favor justificar por mail.
+* Chegar com tudo preparado para a apresentação, incluindo laptop, dados de teste, roteiro do que será apresentado etc. Não conte que o WiFi da sala estará funcionando.
+* Caso alguém não tenha um laptop para demonstração, favor entrar em contato com o professor.
