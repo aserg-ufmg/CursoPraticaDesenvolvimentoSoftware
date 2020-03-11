@@ -94,7 +94,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ### Orientações para as Sprint Reviews (Sprints #1, #2 e #3)
 
-* Em sala de aula, 30 minutos (a definir), incluindo uma demonstração funcional do sistema.
-odos membros do grupo devem estar presentes; mas, para otimizar, a apresentação pode ser realizada por 1-2 membros. Quem não puder estar presente, favor justificar por mail.
+* Em sala de aula, 30 minutos (a definir), incluindo uma demonstração funcional do sistema. Todos membros do grupo devem estar presentes; mas, para otimizar, a apresentação pode ser realizada por 1-2 membros. Quem não puder estar presente, favor justificar por mail.
 * Chegar com tudo preparado para a apresentação, incluindo laptop, dados de teste, roteiro do que será apresentado etc. Não conte que o WiFi da sala estará funcionando.
 * Caso alguém não tenha um laptop para demonstração, favor entrar em contato com o professor.
