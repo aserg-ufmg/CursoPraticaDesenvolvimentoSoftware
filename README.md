@@ -46,6 +46,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Não pode ser sobre uma linguagem de programação
 * Duração: 75 minutos
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia)
+* Temas já reservados:
+  * Django: Gabriel e Jonatas
 
 ## Seminário sobre Prática/Conceito
 
