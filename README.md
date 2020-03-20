@@ -48,6 +48,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia)
 * Temas já reservados (e aguardando agendamento de data):
   * Django: Gabriel e Jonatas
+  * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
+  * Vue.js: Eduardo Oliveira e demais
 
 ## Seminário sobre Prática/Conceito
 
