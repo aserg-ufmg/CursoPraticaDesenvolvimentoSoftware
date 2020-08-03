@@ -8,7 +8,7 @@
 Complementar a formação dos alunos na área de Engenharia de Software, por meio do desenvolvimento de um projeto real, usando técnicas e práticas modernas de desenvolvimento de software. Mas especificamente, os alunos vão desenvolver um sistema:
 
 * real, isto é, um sistema que inclusive tenha usuários reais
-* usado práticas modernas de Engenharia de Software
+* usando práticas modernas de Engenharia de Software
 
 ## Livro Texto 
 
@@ -17,7 +17,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 ## Práticas Usadas no Sprint #1 
 
 * Práticas de Processo
-  * Estórias de usuários, backlog do produto, backlog do sprint, sprint planning, sprint review.
+  * Estórias de usuários, backlog do produto, backlog do sprint, sprint planning, sprint review
   
 * Práticas de Programação
   * Testes de unidade
@@ -37,11 +37,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * 1 seminário (por grupo) sobre prática/conceito: 20 pontos
 * Observação: devido às características da disciplina, ela não possuirá exame especial
 
-## Pontos Extra
-
-* 0.25 pontos para cada "typo" (erro de ortografia, gramatical, etc) encontrado no livro texto e 1.0 ponto para qualquer outro tipo de erro . Sempre limitado a 3 pontos por aluno
-* Para garantir o ponto: enviar mail para o professor (apenas o aluno que achar primeiro o erro será contemplado)
-
 ## Grupos
 
 * Essa é uma disciplina de trabalho em grupo, com 4 ou 5 alunos. Todos os trabalhos serão em grupos.
@@ -51,7 +46,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Possíveis temas: algum framework, biblioteca ou ferramenta (Angular, React, Flutter, Apache Kafka, Kubernettes, Docker, etc)
 * Não pode ser sobre uma linguagem de programação
 * Duração: 50 minutos (gravar vídeo e fazer upload no YouTube)
-* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia)
+* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia). Prazo: **07/08 (6a feira)**
+
 * Temas já reservados (e aguardando agendamento de data):
   * Django: Gabriel e Jonatas
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
@@ -61,7 +57,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Possíveis temas: um novo "processo" (exemplo: Design Thinking, Design Sprint, Shape Up, etc), um livro de Engenharia de Software (exemplo: A Philosophy of Software Design, Pragmatic Programmer, etc)
 * Duração: 50 minutos (gravar vídeo e fazer upload no YouTube)
-* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito)
+* 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito). Prazo: **07/08 (6a feira)**
+
 
 ## Definição do Escopo e Tecnologia do Sistema
 
