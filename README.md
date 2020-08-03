@@ -22,7 +22,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Práticas de programação
   * Testes de unidade
   * Bons princípios e padrões de projeto
-  * Code style
+  * Code style. Veja um exemplo para [Java](https://google.github.io/styleguide/javaguide.html).
   
 * Deployment 
   * Controle de versões (GitHub)
@@ -63,30 +63,20 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Duração: 50 minutos (gravar vídeo e fazer upload no YouTube)
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito)
 
-## Aulas
-
-* Acompanhamento do andamento do projeto (3 grupos por aula)
-
-## Primeira Tarefa
+## Definição do Escopo e Tecnologia do Sistema
 
 * Primeira tarefa: abrir uma [issue](https://github.com/aserg-ufmg/CursoPraticaDesenvolvimentoSoftware/issues) neste mesmo repositório da seguinte forma:
   * Título da issue: nome do sistema e breve descrição (exemplo: ABC: Um sistema para XYZ)
   * Corpo da issue: nome dos membros da equipe; breve descrição das principais funcionalidades do sistema; breve descrição da tecnologia a ser usada (linguagem, frameworks e bancos de dados) e link para o repositório GitHub onde o projeto será desenvolvido.
-  * Prazo: **07/8 (6a feira)**
+  * Prazo: **07/08 (6a feira)**
   
 ## Sprint #1 (20 pontos)
 
-* Sprint planning (prazo: 13/03 - Valor 2 pontos)
+* Sprint planning 
   * Escrever de 5-10 estórias
   * Quebrar as estórias em tarefas; alocar as tarefas para membros do time.
   * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
 * Sprint Review
-  * Datas: 02/09, 09/09, 14/09 (em sala de aula)
-  * Demonstração: reunião de 30 minutos com o professor (Teams ou Google Meet)
-
-### Práticas de Implementação
-
-* Testes de unidade
-* Desenvolvimento baseado no Trunk e feature flags
-* Seguir um layout de código. Veja um exemplo para [Java](https://google.github.io/styleguide/javaguide.html).
+  * Datas: 02/09, 09/09, 14/09 (escala de grupos ainda será definida)
+  * Demonstração de 30 minutos com o professor (Teams)
 
