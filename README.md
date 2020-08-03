@@ -16,15 +16,15 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ## Práticas Usadas no Sprint #1 
 
-* Práticas de processo
+* Práticas de Processo
   * Estórias de usuários, backlog do produto, backlog do sprint, sprint planning, sprint review.
   
-* Práticas de programação
+* Práticas de Programação
   * Testes de unidade
   * Bons princípios e padrões de projeto
   * Code style. Veja um exemplo para [Java](https://google.github.io/styleguide/javaguide.html).
   
-* Deployment 
+* Práticas de Deployment 
   * Controle de versões (GitHub)
   * Trunk-based development
   
