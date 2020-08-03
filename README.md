@@ -32,7 +32,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ## Avaliação
 
-* 3 sprints de 3 semanas cada um (9 semanas): 60 pontos, isto é, 20 pontos por sprint
+* 3 sprints: 60 pontos, isto é, 20 pontos por sprint
 * 1 seminário (por grupo) sobre tecnologia: 20 pontos
 * 1 seminário (por grupo) sobre prática/conceito: 20 pontos
 * Observação: devido às características da disciplina, ela não possuirá exame especial
