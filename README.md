@@ -45,10 +45,14 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Possíveis temas: algum framework, biblioteca ou ferramenta (Angular, React, Flutter, Apache Kafka, Kubernettes, Docker, etc)
 * Não pode ser sobre uma linguagem de programação
-* Duração: 50 minutos (gravar vídeo e fazer upload no YouTube)
+* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; enviar link para o professor por mail)
+* Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia). Prazo: **07/08 (6a feira)**
 
-* Temas já reservados (e aguardando agendamento de data):
+* Calendário:
+  * 19/08 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  
+* Temas já reservados (antes da pandemia; favor confirmar):
   * Django: Gabriel e Jonatas
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
   * Vue.js: Eduardo Oliveira e demais
@@ -56,9 +60,12 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 ## Seminário sobre Prática/Conceito
 
 * Possíveis temas: um novo "processo" (exemplo: Design Thinking, Design Sprint, Shape Up, etc), um livro de Engenharia de Software (exemplo: A Philosophy of Software Design, Pragmatic Programmer, etc)
-* Duração: 50 minutos (gravar vídeo e fazer upload no YouTube)
+* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; enviar link para o professor por mail)
+* Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito). Prazo: **07/08 (6a feira)**
 
+* Calendário: 
+  * 02/09 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
 
 ## Definição do Escopo e Tecnologia do Sistema
 
