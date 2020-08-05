@@ -64,8 +64,9 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito). Prazo: **07/08 (6a feira)**
 
-* Calendário: 
+* Seminários confirmados: 
   * 02/09 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  * 02/09 - A Philosophy of Software Design (Gabriel e Jonatas)
 
 ## Definição do Escopo e Tecnologia do Sistema
 
