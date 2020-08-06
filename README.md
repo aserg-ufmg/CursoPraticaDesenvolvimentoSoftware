@@ -45,7 +45,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Possíveis temas: algum framework, biblioteca ou ferramenta (Angular, React, Flutter, Apache Kafka, Kubernettes, Docker, etc)
 * Não pode ser sobre uma linguagem de programação
-* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; enviar link para o professor por mail até a data do seminário)
+* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; postar link no canal "Seminário de Tecnologia" do MS Teams)
 * Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia). Prazo: **07/08 (6a feira)**
 
@@ -61,7 +61,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 ## Seminário sobre Prática/Conceito
 
 * Possíveis temas: um novo "processo" (exemplo: Design Thinking, Design Sprint, Shape Up, etc), um livro de Engenharia de Software (exemplo: A Philosophy of Software Design, Pragmatic Programmer, etc)
-* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; enviar link para o professor por mail até a data do seminário)
+* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; postar link no canal "Seminário de Conceito" do MS Teams)
 * Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito). Prazo: **07/08 (6a feira)**
 
