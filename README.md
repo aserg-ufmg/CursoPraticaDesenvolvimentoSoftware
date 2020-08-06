@@ -50,9 +50,10 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de tecnologia). Prazo: **07/08 (6a feira)**
 
 * Seminários confirmados:
-  * 19/08 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  * 09/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  * 09/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   
-* Temas já reservados (antes da pandemia; favor confirmar):
+* Temas reservados (antes da pandemia; favor confirmar):
   * Django: Gabriel e Jonatas
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
   * Vue.js: Eduardo Oliveira e demais
@@ -65,8 +66,9 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * 1a tarefa: enviar tema por e-mail para professor (para aprovação e marcação da data do seminário de prática/conceito). Prazo: **07/08 (6a feira)**
 
 * Seminários confirmados: 
-  * 02/09 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
-  * 02/09 - A Philosophy of Software Design (Gabriel e Jonatas)
+  * 05/10 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  * 05/10 - A Philosophy of Software Design (Gabriel e Jonatas)
+  * 07/10 - Design Thinking (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
 
 ## Definição do Escopo e Tecnologia do Sistema
 
