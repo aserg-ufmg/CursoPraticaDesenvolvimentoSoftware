@@ -52,9 +52,10 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Seminários confirmados:
   * 09/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 09/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
+  * 16/09 - Django (Gabriel e Jonatas)
   
 * Temas reservados (antes da pandemia; favor confirmar):
-  * Django: Gabriel e Jonatas
+  
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
   * Vue.js: Eduardo Oliveira e demais
 
