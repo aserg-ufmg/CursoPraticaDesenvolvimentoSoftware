@@ -53,7 +53,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 09/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 09/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   * 16/09 - Django (Gabriel e Jonatas)
-  
+  * 21/09 - Vue.js (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
+
 * Temas reservados (antes da pandemia; favor confirmar):
   
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
