@@ -58,7 +58,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Temas reservados (antes da pandemia; favor confirmar):
   
   * Hibernate & Envers: Arthur, Catarina, Fabiano e Yasmim
-  * Vue.js: Eduardo Oliveira e demais
 
 ## Seminário sobre Prática/Conceito
 
@@ -71,6 +70,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 05/10 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 05/10 - A Philosophy of Software Design (Gabriel e Jonatas)
   * 07/10 - Design Thinking (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
+  * 09/10 - Testes de Sistemas (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
 
 ## Definição do Escopo e Tecnologia do Sistema
 
