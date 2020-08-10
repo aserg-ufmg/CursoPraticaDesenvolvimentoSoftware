@@ -49,7 +49,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Seminários confirmados:
   * 09/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 09/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
-  * 16/09 - Django (Gabriel e Jonatas)
+  * 16/09 - Drone (Gabriel Evangelista, Guilherme Soares, Jonatas Cavalcante.)
   * 16/09 - Hibernate & Envers (Arthur, Catarina, Fabiano e Yasmim)
   * 21/09 - Vue.js (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
   * 21/09 - Kubernetes (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
@@ -61,7 +61,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 * Seminários confirmados: 
   * 05/10 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
-  * 05/10 - A Philosophy of Software Design (Gabriel e Jonatas)
+  * 05/10 - A Philosophy of Software Design (Gabriel Evangelista, Guilherme Soares, Jonatas Cavalcante)
   * 07/10 - Design Thinking (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   * 07/10 - Microservices (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
   * 09/10 - Testes de Sistemas (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
