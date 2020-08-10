@@ -55,6 +55,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 16/09 - Django (Gabriel e Jonatas)
   * 16/09 - Hibernate & Envers (Arthur, Catarina, Fabiano e Yasmim)
   * 21/09 - Vue.js (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
+  * 21/09 - Kubernetes (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
 
 ## Seminário sobre Prática/Conceito
 
@@ -67,6 +68,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 05/10 - Shape Up (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 05/10 - A Philosophy of Software Design (Gabriel e Jonatas)
   * 07/10 - Design Thinking (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
+  * 07/10 - Microservices (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
   * 09/10 - Testes de Sistemas (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
 
 ## Definição do Escopo e Tecnologia do Sistema
