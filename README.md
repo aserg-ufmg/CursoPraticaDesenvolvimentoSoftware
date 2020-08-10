@@ -80,6 +80,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * Quebrar as estórias em tarefas; alocar as tarefas para membros do time.
   * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
 * Sprint Review
-  * Datas: 02/09, 09/09, 14/09 (escala de grupos ainda será definida)
+  * Datas: 09/09 e 14/09 (escala de grupos ainda será definida)
   * Demonstração de 30 minutos com o professor (Teams)
 
