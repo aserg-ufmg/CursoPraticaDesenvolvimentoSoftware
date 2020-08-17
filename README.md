@@ -81,5 +81,5 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
 * Sprint Review
   * Datas: 09/09 e 14/09 (escala de grupos ainda será definida)
-  * Demonstração de 30 minutos com o professor (Teams)
+  * Demonstração de 30 minutos com o professor (via MS Teams)
 
