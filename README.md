@@ -83,5 +83,5 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Sprint Review
   * 09/09: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
   * 14/09: Tech Vogel, Promobot, Maratona Solidária
-  * Demonstração de 30 minutos com o professor (via MS Teams)
+  * Demonstração de 15 minutos com o professor (via MS Teams), seguida de mais 15 minutos de perguntas e esclarecimento de dúvidas
 
