@@ -47,12 +47,12 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
 
 * Seminários confirmados:
-  * 09/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
-  * 09/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   * 16/09 - Drone (Gabriel Evangelista, Guilherme Soares, Jonatas Cavalcante.)
   * 16/09 - Hibernate & Envers (Arthur, Catarina, Fabiano e Yasmim)
   * 21/09 - Vue.js (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
   * 21/09 - Kubernetes (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
+  * 23/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
+  * 23/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
 
 ## Seminário sobre Prática/Conceito
 
@@ -65,6 +65,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 07/10 - Design Thinking (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   * 07/10 - Microservices (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
   * 09/10 - Testes de Sistemas (Augusto Polizer, Brian Aikau, Eduardo Oliveira, Marlon Alves, Rander Gabriel)
+  * 09/10 - Single Page Applications (Arthur, Catarina, Fabiano e Yasmim)
 
 ## Definição do Escopo e Tecnologia do Sistema
 
@@ -80,6 +81,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * Quebrar as estórias em tarefas; alocar as tarefas para membros do time.
   * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
 * Sprint Review
-  * Datas: 09/09 e 14/09 (escala de grupos ainda será definida)
+  * 09/09: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
+  * 14/09: Tech Vogel, Promobot, Maratona Solidária
   * Demonstração de 30 minutos com o professor (via MS Teams)
 
