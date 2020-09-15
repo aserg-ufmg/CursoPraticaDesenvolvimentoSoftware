@@ -27,8 +27,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
 ## Seminário de Tecnologia
 
-* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; postar link no canal "Seminário de Tecnologia" do MS Teams)
-* Se necessário, iremos realizar uma sessão de Perguntas & Respostas, via MS Teams.
+* Duração: 50 minutos (gravar vídeo; fazer upload no YouTube; postar link no canal "Seminário de Tecnologia" do MS Teams às 17:00 horas da data marcada)
 
 * Seminários confirmados:
   * 16/09 - Drone (Gabriel Evangelista, Guilherme Soares, Jonatas Cavalcante.)
@@ -37,6 +36,10 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 21/09 - Kubernetes (Gabriel Pires, Ingrid Rosselis, Raydan Gaspar)
   * 23/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 23/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
+  
+ * Aulas síncronas para tirar dúvidas sobre os seminários (professor irá fazer algumas perguntas para o grupo; todos os membros do grupo devem estar presentes):
+   * 23/09: Drone, Hibernate, Vue.js e Kubernetes
+   * 28/09: Docker e MongoDB
 
 ## Seminário sobre Prática/Conceito
 
