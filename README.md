@@ -14,22 +14,6 @@ Complementar a formação dos alunos na área de Engenharia de Software, por mei
 
 Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 
-## Práticas Usadas no Sprint #1 
-
-* Práticas de Processo
-  * Estórias de usuários, backlog do produto, backlog do sprint, sprint planning, sprint review
-  
-* Práticas de Programação
-  * Testes de unidade
-  * Bons princípios e padrões de projeto
-  * Code style. Veja um exemplo para [Java](https://google.github.io/styleguide/javaguide.html).
-  
-* Práticas de Deployment 
-  * Controle de versões (GitHub)
-  * Trunk-based development
-  
-(essas práticas poderão ser alteradas e/ou complementadas para o sprint #2)
-
 ## Avaliação
 
 * 3 sprints: 60 pontos, isto é, 20 pontos por sprint
@@ -77,11 +61,21 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 ## Sprint #1 (20 pontos)
 
 * Sprint planning 
-  * Escrever de 5-10 estórias
-  * Quebrar as estórias em tarefas; alocar as tarefas para membros do time.
-  * Documentar estórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
+  * Escrever de 5-10 histórias
+  * Quebrar as histórias em tarefas; alocar as tarefas para membros do time.
+  * Documentar histórias, tarefas e responsáveis no README do projeto, em uma uma seção chamada Sprint Planning.
 * Sprint Review
   * 09/09: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
   * 14/09: Tech Vogel, Promobot, Maratona Solidária
   * Demonstração de 15 minutos com o professor (via MS Teams), seguida de 15 minutos para perguntas e esclarecimento de dúvidas. Todos os membros do grupo devem estar presentes na reunião.
 
+## Sprint #2 (20 pontos)
+
+* Sprint Planning: escrever algumas histórias e documentá-las no README do projeto
+* Práticas: 
+  * Obgrigatórias: testes de unidade e/ou integração (obrigatório)
+  * Opcionais: trunk-based development, integração contínua, revisão de código, etc.
+* Sprint Review:
+  * 14/10: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
+  * 19/10: Tech Vogel, Promobot, Maratona Solidária
+  
