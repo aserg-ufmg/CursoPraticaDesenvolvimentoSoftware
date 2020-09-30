@@ -37,9 +37,6 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 23/09 - Docker (André Heringer, Ingrid Lagares, Henrique Pessoa, Lucas Salles, Yasmin Araujo)
   * 23/09 - MongoDB (Evandro, Henrique Barbosa, Breno Martins, João Henrique)
   
- * Aulas síncronas para tirar dúvidas sobre os seminários (professor irá fazer algumas perguntas para o grupo; todos os membros do grupo devem estar presentes):
-   * 23/09: Drone, Hibernate, Vue.js e Kubernetes
-   * 28/09: Docker e MongoDB
 
 ## Seminário sobre Prática/Conceito
 
@@ -82,3 +79,7 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   * 14/10: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
   * 19/10: Tech Vogel, Promobot, Maratona Solidária
   
+## Sprint #3 (20 pontos)
+* Sprint Review:
+  * 04/11 - 15:00: 
+  * 04/11 - 17:00: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico, Tech Vogel, Promobot, Maratona Solidária
