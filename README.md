@@ -81,5 +81,5 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
   
 ## Sprint #3 (20 pontos)
 * Sprint Review:
-  * 04/11 - 15:00: 
-  * 04/11 - 17:00: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico, Tech Vogel, Promobot, Maratona Solidária
+  * 03/11 - 15:00: Postar um vídeo de demonstração funcional do sistema, com 15 minutos de duração 
+  * 04/11 - 17:00: Arguição e conversa com cada um dos times (síncrono, via MS Teams).
