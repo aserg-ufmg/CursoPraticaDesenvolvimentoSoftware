@@ -78,7 +78,8 @@ Engenharia de Software Moderna ([link](https://engsoftmoderna.info/))
 * Sprint Review:
   * 14/10: e-Football Tournament Manager, OrçaOnline, Encontre um Mecânico
   * 19/10: Tech Vogel, Promobot, Maratona Solidária
-  
+  * Como já conheço os sistemas, vou reservar metade do tempo para vocês falarem sobre os testes (mostrar exemplos, se possível comentar sobre a cobertura; comentar sobre os tipos de testes que foram implementados, etc).
+
 ## Sprint #3 (20 pontos)
 * Sprint Review:
   * 03/11 - 15:00: Postar um vídeo de demonstração funcional do sistema, com 15 minutos de duração 
